@@ -1,0 +1,7 @@
+require("moudles.monitors")
+require("moudles.keybinds")
+require("moudles.start")
+require("moudles.input")
+require("moudles.env")
+require("moudles.decor")
+require("moudles.animation")

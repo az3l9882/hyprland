@@ -1,0 +1,6 @@
+hl.on("hyprland.start", function()
+hl.exec_cmd("clipse -listen")
+hl.exec_cmd("waypaper --restore")
+hl.exec_cmd("hyprctl setcursor Bibata-Modern-Classic 24")
+hl.exec_cmd("waybar")
+end)
